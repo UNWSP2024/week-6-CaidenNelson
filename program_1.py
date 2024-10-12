@@ -1,3 +1,6 @@
+
+
+
 import random
 import statistics
 from hmac import digest_size
@@ -6,6 +9,9 @@ from zoneinfo import reset_tzpath
 
 
 # Program #1: Random Dice
+
+#Date = 10.11.24
+#Programmer = Caiden
 # Write a "randDice" function (with no input) that randomly chooses two numbers between 1 and 6 (inclusive) and then adds them (this is to simulate the rolling of 2 dice).
 # The dice sum will be the output of this function.
 tSum = 0
